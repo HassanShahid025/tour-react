@@ -1,0 +1,16 @@
+.reload-btn{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.reload-btn button{
+    background-color: rgb(60 123 201);
+    border: none;
+    padding: 1rem;
+    border-radius: 10px;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+    font-size: .9rem;
+}
